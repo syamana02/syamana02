@@ -1,0 +1,3 @@
+- 👋 Hi, I'm @syamana02
+- 👀 I'm interested in github
+- 🌱 I'm currently studying docs.github.com
